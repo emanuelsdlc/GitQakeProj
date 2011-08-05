@@ -1,0 +1,36 @@
+body {
+	background: #E9F2F9;
+	margin: 0;
+	font-family: Helvetica, Arial, Helvetica, sans-serif;
+}
+#main {
+	background: white;
+	padding: 25px;
+	border: 1px solid black;
+}
+#container {
+	margin: 0 auto;
+	width: 960px;
+}
+#footer, #header {
+	margin: 20px 0;
+}
+header {
+	color: #3A89C9;
+}
+#team_display {
+	width: 100%;
+}
+.team_member_picture {
+	float: left;
+	padding: 30px;
+}
+.team_member_info {
+	padding: 30px;
+}
+.clear {
+	clear: both;
+}
+.team_display {
+	margin-bottom: 20px;
+}
