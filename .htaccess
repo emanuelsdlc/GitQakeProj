@@ -4,6 +4,5 @@ RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ $1.php [L,QSA]
-ErrorDocument 500 http://www.qake.info/500
 ErrorDocument 404 http://www.qake.info/404
 ErrorDocument 403 http://www.qake.info/403
