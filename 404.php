@@ -8,7 +8,7 @@
 <body>
     	<div id="container">
     		<header id="header">
-    			Qake Logo
+    			<img src="logoCake.jpg" alt="Qake Logo" height=10% width=10% />
     		</header>
     		<div id="main">
     			<section>
