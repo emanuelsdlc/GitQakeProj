@@ -6,3 +6,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ $1.php [L,QSA]
 ErrorDocument 404 http://www.qake.info/404
 ErrorDocument 403 http://www.qake.info/403
+Options -Indexes
