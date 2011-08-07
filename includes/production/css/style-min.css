@@ -1,4 +1,9 @@
-@font-face{font-family:'Gloria Hallelujah';font-style:normal;font-weight:400;src:local('Gloria Hallelujah'), local(GloriaHallelujah), url(http://themes.googleusercontent.com/static/fonts/gloriahallelujah/v2/CA1k7SlXcY5kvI81M_R28Y5mSNQmgKshuii2YddNQzE.woff) format(woff)}
+@font-face {
+  font-family: 'Gloria Hallelujah';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Gloria Hallelujah'), local('GloriaHallelujah'), url('http://themes.googleusercontent.com/static/fonts/gloriahallelujah/v2/CA1k7SlXcY5kvI81M_R28Y5mSNQmgKshuii2YddNQzE.woff') format('woff');
+}
 body{background:#F2F2F2;font-family:Myriad, Helvetica, Arial, Helvetica, sans-serif;margin:0}
 #main{background:#FFF;-webkit-border-radius:25px;-moz-border-radius:25px;border-radius:25px;color:#000;border:2px solid #D3D3D3;padding:25px}
 #container{width:960px;margin:0 auto}
