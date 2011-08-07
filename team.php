@@ -45,7 +45,7 @@
 					
 					<section class="team_display">
     					<div class="team_member_picture">
-    						<img src="./images/kelvinprofile.jpg" height=280px width=180px title="" alt="Kelvin Lapidario" />
+    						<img src="./images/kelvinprofile.jpg" height="280" width="180" title="" alt="Kelvin Lapidario" />
     					</div>
     					<div class="team_member_info">
     						<p><b>Name: </b> Kelvin Lapidario</p>
