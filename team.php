@@ -6,12 +6,13 @@
         <title>Qake - Team</title>
         <meta charset="UTF-8" >
         <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+		<link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
     </head>
 
     <body>
     	<div id="container">
     		<header id="header">
-    			<img src="./Images/logoCake.jpg" alt="Qake Logo" height=10% width=10% />
+    			Qake - YUM YUM &hearts; 
     		</header>
     		<div id="main">
     			<section>

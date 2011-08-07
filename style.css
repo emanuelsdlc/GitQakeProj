@@ -1,12 +1,17 @@
 body {
-	background: #E9F2F9;
+	background: #F2F2F2;
 	margin: 0;
-	font-family: Helvetica, Arial, Helvetica, sans-serif;
+	font-family: Myriad, Helvetica, Arial, Helvetica, sans-serif;
 }
 #main {
 	background: white;
 	padding: 25px;
 	border: 1px solid black;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px; 
+	color: black;
+	border: 2px solid lightgrey;
 }
 #container {
 	margin: 0 auto;
@@ -14,7 +19,11 @@ body {
 }
 #footer, #header {
 	margin: 20px 0;
+	color: grey;
+	text-shadow: 1px 1px 0 #fff;
+	font-family: 'Gloria Hallelujah', cursive;
 }
+#header{font-size: 42px;}
 header {
 	color: #3A89C9;
 }
