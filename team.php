@@ -11,7 +11,7 @@
     <body>
     	<div id="container">
     		<header id="header">
-    			<img src="logoCake.jpg" alt="Qake Logo" height=10% width=10% />
+    			<img src="./Images/logoCake.jpg" alt="Qake Logo" height=10% width=10% />
     		</header>
     		<div id="main">
     			<section>
