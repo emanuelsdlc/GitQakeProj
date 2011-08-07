@@ -35,13 +35,13 @@
 		
 		<section class="team_display">
 			<div class="team_member_picture">
-				<img src="./images/kelvinprofile.jpg" height="280" width="180" title="" alt="Kelvin Lapidario" />
+				<img src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/174483_619173801_5567772_n.jpg" title="" alt="Kelvin Lapidario" />
 			</div>
 			<div class="team_member_info">
 				<p><b>Name: </b> Kelvin Lapidario</p>
 				<p><b>Role: </b> Enter your position here </p>
 				<p><b>Contact: </b>klapidar@ucsd.edu</p>
-				<p><b>Bio: </b> Debugging, Homework, Dance, Driving and Games.</p>
+				<p><b>Bio: </b> Debugging, Homework, Dancing, Driving and Games.</p>
 			</div>
 		</section><br class="clear" />
 
