@@ -1,9 +1,8 @@
 RewriteEngine On
+Options -Indexes
 RewriteCond %{HTTP_HOST} !^www\.
 RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ $1.php [L,QSA]
-ErrorDocument 404 http://www.qake.info/ErrorPages/404
-ErrorDocument 403 http://www.qake.info/ErrorPages/403
-Options -Indexes
+RewriteRule ^([^\.]+)$ $1.php [NC,L] 
+
+
