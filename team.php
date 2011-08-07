@@ -12,7 +12,7 @@
     <body>
     	<div id="container">
     		<header id="header">
-    			Qake - YUM YUM &hearts; 
+    			<img src="./images/cake-logo.png" alt="Qake Logo" title="Qake.info" /> <span>Welcome to Qake!</span>
     		</header>
     		<div id="main">
     			<section>
@@ -30,6 +30,30 @@
     						<p><b>Bio: </b> Sleep, School, Homework, Programing, and Gaming</p>
     					</div>
     				</section><br class="clear" />
+					
+					<section class="team_display">
+    					<div class="team_member_picture">
+    						<img src="http://profile.ak.fbcdn.net/hprofile-ak-ash2/23242_1510892550_8693_n.jpg" title="" alt="Aria Arasteh" />
+    					</div>
+    					<div class="team_member_info">
+    						<p><b>Name: </b> Aria Arasteh</p>
+    						<p><b>Role: </b> Enter your position here </p>
+    						<p><b>Contact: </b>ariaarasteh@gmail.com</p>
+    						<p><b>Bio: </b> None</p>
+    					</div>
+    				</section><br class="clear" />
+					
+					<section class="team_display">
+    					<div class="team_member_picture">
+    						<img src="./images/kelvinprofile.jpg" height=280px width=180px title="" alt="Kelvin Lapidario" />
+    					</div>
+    					<div class="team_member_info">
+    						<p><b>Name: </b> Kelvin Lapidario</p>
+    						<p><b>Role: </b> Enter your position here </p>
+    						<p><b>Contact: </b>klapidar@ucsd.edu</p>
+    						<p><b>Bio: </b> Debugging, Homework, Dance, Driving and Games.</p>
+    					</div>
+    				</section><br class="clear" />
 
     				<section class="team_display">
     					<div class="team_member_picture">
@@ -42,32 +66,6 @@
     						<p><b>Bio: </b> None</p>
     					</div>
     				</section><br class="clear" />
-
-    				<section class="team_display">
-    					<div class="team_member_picture">
-    						<img src="http://profile.ak.fbcdn.net/hprofile-ak-ash2/23242_1510892550_8693_n.jpg" title="" alt="Aria Arasteh" />
-    					</div>
-    					<div class="team_member_info">
-    						<p><b>Name: </b> Aria Arasteh</p>
-    						<p><b>Role: </b> Enter your position here </p>
-    						<p><b>Contact: </b>ariaarasteh@gmail.com</p>
-    						<p><b>Bio: </b> None</p>
-    					</div>
-    				</section><br class="clear" />
-
-    				<section class="team_display">
-    					<div class="team_member_picture">
-    						<img src="./images/kelvinprofile.jpg" height=280px width=180px title="" alt="Kelvin Lapidario" />
-    					</div>
-    					<div class="team_member_info">
-    						<p><b>Name: </b> Kelvin Lapidario</p>
-    						<p><b>Role: </b> Enter your position here </p>
-    						<p><b>Contact: </b>klapidar@ucsd.edu</p>
-    						<p><b>Bio: </b> Debugging, Homework, Dance, Driving and Games.</p>
-    					</div>
-    				</section><br class="clear" />
-
-
 
     				<footer>
     					For more information about our team please contact us at admin@qake.info

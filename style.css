@@ -43,3 +43,5 @@ header {
 .team_display {
 	margin-bottom: 20px;
 }
+
+#header > span {margin-top: 30px; position: absolute; margin-left: 50px;}
