@@ -1,7 +1,6 @@
-
 <?php 
 	$_GET['__title'] = "Forbidden";
-	include_once("./includes/header.php"); 
+	include_once($_SERVER['DOCUMENT_ROOT'] . "/includes/header.php");  
 ?>
 
 <section>
