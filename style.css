@@ -11,7 +11,7 @@ body {
 	-moz-border-radius: 25px;
 	border-radius: 25px; 
 	color: black;
-	border: 2px solid lightgrey;
+	border: 2px solid #D3D3D3;
 }
 #container {
 	margin: 0 auto;
@@ -19,7 +19,7 @@ body {
 }
 #footer, #header {
 	margin: 20px 0;
-	color: grey;
+	color: #808080;
 	text-shadow: 1px 1px 0 #fff;
 	font-family: 'Gloria Hallelujah', cursive;
 }
