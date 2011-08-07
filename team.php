@@ -35,7 +35,7 @@
 		
 		<section class="team_display">
 			<div class="team_member_picture">
-				<img src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/174483_619173801_5567772_n.jpg" title="" alt="Kelvin Lapidario" />
+				<img src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/275166_619173801_7295736_n.jpg" title="" alt="Kelvin Lapidario" />
 			</div>
 			<div class="team_member_info">
 				<p><b>Name: </b> Kelvin Lapidario</p>
