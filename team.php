@@ -56,13 +56,13 @@
 
     				<section class="team_display">
     					<div class="team_member_picture">
-    						<img src="http://profile.ak.fbcdn.net/hprofile-ak-snc4/174483_619173801_5567772_n.jpg" title="" alt="Kelvin Lapidario" />
+    						<img src="./Images/kelvinprofile.jpg" height=280px width=180px title="" alt="Kelvin Lapidario" />
     					</div>
     					<div class="team_member_info">
     						<p><b>Name: </b> Kelvin Lapidario</p>
     						<p><b>Role: </b> Enter your position here </p>
     						<p><b>Contact: </b>klapidar@ucsd.edu</p>
-    						<p><b>Bio: </b> Kelvin..find a better mugshot picture of yourself and update the default one lol</p>
+    						<p><b>Bio: </b> Debugging, Homework, Dance, Driving and Games.</p>
     					</div>
     				</section><br class="clear" />
 
