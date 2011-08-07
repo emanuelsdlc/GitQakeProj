@@ -1,0 +1,13 @@
+@font-face{font-family:'Gloria Hallelujah';font-style:normal;font-weight:400;src:local('Gloria Hallelujah'), local(GloriaHallelujah), url(http://themes.googleusercontent.com/static/fonts/gloriahallelujah/v2/CA1k7SlXcY5kvI81M_R28Y5mSNQmgKshuii2YddNQzE.woff) format(woff)}
+body{background:#F2F2F2;font-family:Myriad, Helvetica, Arial, Helvetica, sans-serif;margin:0}
+#main{background:#FFF;-webkit-border-radius:25px;-moz-border-radius:25px;border-radius:25px;color:#000;border:2px solid #D3D3D3;padding:25px}
+#container{width:960px;margin:0 auto}
+#footer,#header{color:gray;text-shadow:1px 1px 0 #fff;font-family:'Gloria Hallelujah', cursive;margin:20px 0}
+#header{font-size:42px}
+header{color:#3A89C9}
+#team_display{width:100%}
+.team_member_picture{float:left;padding:30px}
+.team_member_info{padding:30px}
+.clear{clear:both}
+.team_display{margin-bottom:20px}
+#header > span{margin-top:30px;position:absolute;margin-left:50px}
