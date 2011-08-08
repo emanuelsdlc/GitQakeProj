@@ -16,6 +16,6 @@
     <body>
     	<div id="container">
     		<header id="header">
-    			<a href="http://www.qake.info/"><img src="http://www.quake.info/images/cake-logo.png" alt="Qake Logo" title="Qake.info" border="0"/> </a><span>Welcome to Qake!</span>
+    			<a href="http://www.qake.info/"><img src="http://www.qake.info/images/cake-logo.png" alt="Qake Logo" title="Qake.info" border="0"/> </a><span>Welcome to Qake!</span>
     		</header>
     		<div id="main">
