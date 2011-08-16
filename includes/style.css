@@ -20,7 +20,7 @@ body {
 	color: black;
 	border: 2px solid #D3D3D3;
 }
-#container {
+.container {
 	margin: 0 auto;
 	width: 960px;
 }
@@ -30,7 +30,7 @@ body {
 	text-shadow: 1px 1px 0 #fff;
 	font-family: 'Gloria Hallelujah', cursive;
 }
-#header{font-size: 42px;}
+#header{font-size: 42px; margin-top: 50px;}
 header {
 	color: #3A89C9;
 }
@@ -52,3 +52,13 @@ header {
 }
 
 #header > span {margin-top: 30px; position: absolute; margin-left: 50px;}
+#search-box input {margin-top: 10px;}
+#search {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; 
+	border-color: black; }
+#overflow-nav{background:black ; color: white; height: 45px; width: 100%; position: absolute; top: 0; left: 0; position: fixed; z-index:1;}	
+.search_result_list img{float: left; padding: 5px;}
+.search_result_list{padding: 10px;}	
+.search_result_list em {color: blue; font-weight: bold;}
