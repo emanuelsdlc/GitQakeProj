@@ -10,6 +10,7 @@
 		<ul>
 			<li><a href="./phppage">PHP Validation</a></li>
 			<li><a href="./team">Team Page</a></li>
+			<li><a href="./reports">Report facility</a></li>
 		</ul>
 	</nav>
 </section>
